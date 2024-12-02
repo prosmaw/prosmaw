@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Prosper Amebe
+### Hi there 👋, I'm Yao Prosper Amebe
 
 # 💫 About Me:
 A passinate software engineer focused on mobile. I love building beautiful and responsive mobile applications and  solving problems.<br>I Started working with Flutter 💙 in 2022, and I have since been dedicated to upgrading my skills and staying up-to-date with the latest advancements in flutter.<br><br>👨🏿‍🎓I'm also a Cybersecurity student at MC.<br><br>
@@ -10,7 +10,7 @@ A passinate software engineer focused on mobile. I love building beautiful and r
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prosmaw&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prosmaw&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prosmaw&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prosmaw&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 <!-- ### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=prosmaw&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
